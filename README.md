@@ -5,4 +5,4 @@ Starter codes
 To find out the determinant det(A) of an n × n matrix using laplace expension
 
 2. fraction:
-creating class that takes two inputs numerator and denominator, converting it into fraction. Also creating methods for addition, subtraction, multiplication, division and equal to.
+Fraction class that takes two inputs numerator and denominator, converting it into fraction. Overwriting default addition, subtraction, multiplication, division and equal to operators to be able to handle fraction objects
